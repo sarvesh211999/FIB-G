@@ -18,7 +18,7 @@ bandit==1.4.0
 bcrypt==3.1.4
 beautifulsoup4==4.5.3
 bigcommerce==0.18.0
-bleach==2.1.4
+bleach==3.3.0
 blinker==1.4
 borg.localrole==3.1.4
 boto3==1.9.130
