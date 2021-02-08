@@ -129,7 +129,7 @@ hiddenlayer==0.2
 hpack==3.0.0
 html-linter==0.3.0
 html5lib==1.0.1
-httplib2==0.9.1
+httplib2==0.19.0
 hyperframe==5.1.0
 idna==2.6
 imagesize==0.7.1
