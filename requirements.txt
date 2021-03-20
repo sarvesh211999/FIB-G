@@ -143,7 +143,7 @@ isort==4.2.15
 itsdangerous==0.24
 jdcal==1.4
 jedi==0.12.1
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.4
 jsmin==2.2.1
 jsonschema==2.6.0
