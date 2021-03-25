@@ -317,7 +317,7 @@ python-mimeparse==1.6.0
 python-systemd==231
 pytz==2017.3
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.4.1
 radon==1.4.0
