@@ -282,7 +282,7 @@ psycopg2==2.7.4
 psycopg2-binary==2.7.4
 ptyprocess==0.6.0
 PubChemPy==1.0.4
-py==1.7.0
+py==1.10.0
 pyasn1==0.4.4
 pycodestyle==2.3.1
 pycparser==2.18
