@@ -423,7 +423,7 @@ yamllint==1.6.1
 yapf==0.14.0
 z3c.autoinclude==0.3.7
 ZODB3==3.11.0
-Zope==4.0b2
+Zope==5.2.1
 zope.annotation==4.6.0
 zope.app.locales==4.0.0
 zope.browser==2.2.0
