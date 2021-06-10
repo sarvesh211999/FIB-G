@@ -57,7 +57,7 @@ devscripts===2.16.2ubuntu3
 dict2xml==1.6
 dicttoxml==1.7.4
 dill==0.2.8.2
-Django==2.0
+Django==2.2.24
 django-advanced-template-tags==0.1
 django-agnocomplete==0.9.0
 django-autocomplete-foreignkey==0.0.1
