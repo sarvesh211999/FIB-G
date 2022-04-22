@@ -300,7 +300,7 @@ pymongo==3.6.1
 pyocr==0.5.3
 pyOpenSSL==17.5.0
 pyparsing==2.2.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyperclip==1.6.5
 PyPrint==0.2.6
 pyroma==2.2
