@@ -380,7 +380,7 @@ traitlets==4.3.2
 transaction==2.1.2
 ubuntu-drivers-common==0.0.0
 ufw==0.35
-ujson==1.35
+ujson==5.2.0
 unidiff==0.5.4
 unity-scope-calculator==0.1
 unity-scope-chromiumbookmarks==0.1
