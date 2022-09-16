@@ -161,7 +161,7 @@ logilab-common==1.1.0
 louis==2.6.4
 lxml==4.2.5
 Magic-file-extensions==0.2
-Mako==1.0.3
+Mako==1.2.2
 mando==0.3.3
 MarkupSafe==1.0
 matplotlib==2.2.3
