@@ -27,7 +27,7 @@ bottle==0.12.13
 Brlapi==0.6.4
 brotlipy==0.7.0
 BTrees==4.4.1
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 checkbox-support==0.22
